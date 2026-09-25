@@ -11,18 +11,23 @@ CSV_FILE = "history.csv"
 # Thực đơn cố định của nhà hàng Mr. Bình
 menu = {
     "Đồ ăn": {
-        "Pizza Hải Sản": 150000,"Pizza cá": 500000,
+        "Pizza Hải Sản": 150000,"Pizza bò": 500000,
         "Mì Ý Bò Bằm": 95000,
-        "Burger Gà": 35000,
-        "Salad Trộn": 50000,
+        "Mì Trộn Thái": 45000,
+        "Mì Cay Bò": 50000,
         "Bít tết Bò Mỹ": 250000,
         "Sườn nướng BBQ": 180000,
-        "Cánh gà chiên mắm": 75000,
+        "Hủ tiếu nam vang": 45000,
         "Lẩu cá diêu hồng": 200000,
         "Lẩu Thái hải sản": 300000,
+        "Lẩu riêu cua đồng": 250000,
+        "Rau tập tàn": 50000,
+        "Lẩu mắm": 300000,
+        "Bánh xèo": 30000,
+        " Bánh khọt": 45000
     },
     "Thức uống": {
-        "Coca Cola": 20000,
+        "Coca Cola": 20000,"Pepsi": 20000
         "Trà sữa SV": 70000,
         "Trà Đào Cam Sả": 35000,
         "Cà Phê Sữa": 25000,
@@ -31,6 +36,9 @@ menu = {
         "Nước ép cam": 40000,
         "Mojito chanh dây": 55000,
         "Bia Heineken": 30000,
+        "Bia SaiGon": 20000,
+        "Hồng trà tắc mật ong": 15000
+        "Trà đá": 2000
     },
 }
 
