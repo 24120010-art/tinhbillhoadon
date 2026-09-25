@@ -24,7 +24,7 @@ menu = {
         "Rau tập tàn": 50000,
         "Lẩu mắm": 300000,
         "Bánh xèo": 30000,
-        " Bánh khọt": 45000
+        " Bánh khọt": 45000,
     },
     "Thức uống": {
         "Coca Cola": 20000,
@@ -37,8 +37,8 @@ menu = {
         "Mojito chanh dây": 55000,
         "Bia Heineken": 30000,
         "Bia SaiGon": 20000,
-        "Hồng trà tắc mật ong": 15000
-        "Trà đá": 2000
+        "Hồng trà tắc mật ong": 15000,
+        "Trà đá": 2000,
     },
 }
 
