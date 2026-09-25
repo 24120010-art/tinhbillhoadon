@@ -27,7 +27,7 @@ menu = {
         " Bánh khọt": 45000
     },
     "Thức uống": {
-        "Coca Cola": 20000,"Pepsi": 20000
+        "Coca Cola": 20000,
         "Trà sữa SV": 70000,
         "Trà Đào Cam Sả": 35000,
         "Cà Phê Sữa": 25000,
